@@ -1,0 +1,126 @@
+a{
+    text-decoration: none;
+    padding: 15px;
+    margin-left:5%;
+    color:rgb(67 156 246);
+    margin-top: 10px;
+    font-weight: bold;
+}
+a:hover{
+  color: #929292;
+  border: solid;
+  background-color: #f7f5f5;
+}
+body{
+  background-image:url(bg.jpg);
+  background-size: 100% 20%;
+  background-repeat: no-repeat;
+  font-family: 'Open Sans', sans-serif;
+  color: #929292;
+}
+img{
+  border-radius: 100%;
+}
+.add{
+  background-color: gold;
+  color:rgb(67 156 246);
+  margin-left: 35%;
+  border:0;
+  height: 50px;
+  width: 200px;
+  margin-bottom:50px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+.background{
+    margin-top: 300px;
+    margin-left: 10%;margin-right: 13%;
+    padding-right: 13%;
+    padding-left: 13%;
+    background-color:#eaeaea;
+    display: flex;
+    flex-direction:column ;
+  }
+  .comment-1{
+    background-color:white;
+    margin-top:-15%;
+    margin-left: 0%;
+
+    padding-left:40px;
+    padding-right: 40px;
+  }
+  .comment-2,.comment-3,.comment-4{
+    background-color:white;
+    margin-top: 100px;
+    margin-left: 0%;
+    padding-left:40px;
+    padding-right: 40px;
+  }
+  .Dashboard{
+    margin-left: 20%;
+  }
+  .date{
+    position: absolute;
+    margin-top: 100px;
+    color: grey;
+    margin-left: 18%;
+  }
+  .i1,.i2,.i3,.i4{
+    position: absolute;
+    margin-left: 18%;
+    margin-top: -70px;
+  }
+  .name1,.name2{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 18%;
+    color:rgb(67 156 246);
+  }
+  .name3{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 19%;
+    color:rgb(67 156 246);
+  }
+  .name4{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 20%;
+    color:rgb(67 156 246);
+  }
+  .rate{
+    margin-left: 80%;
+     margin-top:-20px;
+  }
+  .select{
+      text-decoration: none;
+      padding: 15px;
+      margin-left:5%;
+      color: #929292;
+      border: solid;
+      background-color: #f7f5f5;
+  }
+  .show{display: none;}
+  .star1{color: gold; margin-top: 180px; margin-left: 2%; position: absolute;}
+  .star2{color: gold; margin-top: 180px; margin-left: 5%; position: absolute;}
+  .star3,.star7{color: gold; margin-top: 180px; margin-left: 8%; position: absolute;}
+  .star4,.star8{color: gold; margin-top: 180px; margin-left: 11%; position: absolute;}
+  .star5{color: gold; margin-top: 180px; margin-left: 14%; position: absolute;}
+  .star6{color: gold; margin-top: 180px; margin-left: 17%; position: absolute;}
+  .title1,.title2,.title3,.title4{position: absolute;margin-top: 140px;margin-left:6%;color:#929292;}
+  .thumbsup{ color: green; margin-top: 180px; margin-left: 30%;}
+  .thumbsdown{ color: red; margin-top: 180px; margin-left: 30%;}
+  .white-bar{
+    background-color: white;
+    padding-bottom:20px;
+    width: 80%;
+    height: 60px;
+    margin-left: 10%;
+    display: flex;
+    flex-direction: row;
+  }
+
+.web-logo{
+  height: 80px;
+  width: 200px;
+}
